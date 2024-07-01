@@ -8,15 +8,17 @@
 
 }
 #booleaner {
+    margin-left: 21%;
     height: 100px;
     width: 150px;
     background-image: url(../img/logo.svg);
-    background-position: 0,25%;
+    background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
    }
 
 .address {
+    color: gray;
     height: 50px;
 }
 
@@ -87,4 +89,6 @@ thead{
 
 h1{
     font-size: 48px;
+    margin-bottom: 8px;
+    margin-top: 24px;
 }
