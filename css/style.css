@@ -20,6 +20,15 @@
     height: 50px;
 }
 
-b {
+#blue {
     color: rgb(62, 128, 250);
 }
+
+.lorem{
+    margin: 20px 0;
+}
+
+.yellow{
+    background-color:  yellow;
+}
+
