@@ -32,3 +32,22 @@
     background-color:  yellow;
 }
 
+ul{
+    margin: 8px;
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+    table-layout: fixed;
+}
+
+thead{
+    text-align: left;
+    color: white;
+    background-color: rgb(67, 152, 231);
+}
+
+.color{
+    background-color: rgb(12, 228, 228);
+}
