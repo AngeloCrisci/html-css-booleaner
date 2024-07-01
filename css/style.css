@@ -15,3 +15,11 @@
     background-size: 100%;
     background-repeat: no-repeat;
    }
+
+.address {
+    height: 50px;
+}
+
+b {
+    color: rgb(62, 128, 250);
+}
